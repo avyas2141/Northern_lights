@@ -1,8 +1,8 @@
 # Abhishek Vyas 
 
-# Best places to see Northen Lights
+# Best places to see Northern Lights
 
-This websites shows the top 5 places where you can the natural phenomenon of Northen lights 
+This websites shows the top 5 places where you can the natural phenomenon of Northern lights 
 
 
 Steps to build Project
